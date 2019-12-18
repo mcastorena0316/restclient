@@ -2,13 +2,13 @@ class UsersController < ApplicationController
     def index
         @name = "I am the Index action!"
     end
-    def list
-        @list_url = "I am the Users action!"
+    def show
+        @show_action = Users.find(params[:id])
     end
-    def help
-        @help_url = "I am the Help action!"
+    def create
+        @create_action = "I am the Help action!"
     end
-    def about
-        @about_url = "I am the About action!"
+    def destroy
+        @destroy_action = "I am the About action!"
     end
 end
