@@ -26,7 +26,7 @@ Melissa Castorena - mcastorena0316@gmail.com
 
 Guadalupe Rangel- kanemekanik@gmail.com
 
-Project Link: [Bing-Request](https://github.com/mcastorena0316/restclient)
+Project Link: [Rest-Client](https://github.com/mcastorena0316/restclient)
 
 
 
